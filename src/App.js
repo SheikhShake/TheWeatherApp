@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./home";
 import About from "./about";
+
 function App() {
   return (
     <nav>
